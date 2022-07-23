@@ -1,6 +1,3 @@
-# summer-j124
-Work for summer J124 class
-
-
 <h1> Sofia Schmidt
 <h2> Stuff about me.
+![alt text](https://github.com/sofiaschmidt/summer-j124/imageformd.jpg?raw=true)
